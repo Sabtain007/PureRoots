@@ -1,7 +1,7 @@
 export default function Products() {
     const productList = [
         { name: "Organic Wheat", image: "/images/wheat.webp" },
-            { name: "Fresh Mangoes", image: "/mango.jpg" },
+            { name: "Fresh Mangoes", image: "/images/mango.jpg" },
                 { name: "Basmati Rice", image: "/images/rice.jpg" },
                     { name: "Dairy Products", image: "/images/milk.jpg" },
                       ];
